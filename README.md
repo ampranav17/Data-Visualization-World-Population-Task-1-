@@ -36,3 +36,5 @@ Jupyter Notebook
 🔹 Outcome
 
 This task helped me understand how data visualization can be used to identify trends, patterns, and distributions in real-world datasets. It strengthened my skills in data handling and graphical representation of data.
+
+<img width="1919" height="1079" alt="Screenshot 2026-01-16 220310" src="https://github.com/user-attachments/assets/001e5cd9-19ff-495e-b482-3a7edba19b14" />
